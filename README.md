@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenue sur mon Github !!!</h1>
 <h3 align="center">
-  Je suis autodidacte et passionné par le développement web.
-  N'hésitez pas à passer régulièrement, car je suis très actif.
+  Je suis autodidacte et passionné par le développement web.<br>
+  N'hésitez pas à passer régulièrement, car je suis très actif.<br>
   Cours ou projet, il y a toujours du nouveau contenu. 🙏
 </h3>
 
